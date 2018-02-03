@@ -1,0 +1,32 @@
+.square{
+    width:100px;
+    height:100px;
+}
+
+.v{
+    border-left:1px solid #000;
+    border-right:1px solid #000;
+}
+
+.h{
+    border-top:1px solid #000;
+    border-bottom:1px solid #000;
+}
+#board {
+    margin: auto;
+    width: 25%;
+    padding-top: 100px;
+}
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+.gameText {
+    text-align: center;
+}
+#title {
+    text-align: center;
+    color: blueviolet;
+}
